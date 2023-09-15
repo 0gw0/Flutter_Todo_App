@@ -1,3 +1,3 @@
-# to_do_list_app
+# To-do List App
 
-Tutorial project done the Google Ignite Programme 2023
+Tutorial project done during the Google Ignite Programme 2023
